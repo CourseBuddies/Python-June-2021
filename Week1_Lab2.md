@@ -1,5 +1,5 @@
-## Hafta 1
-### Soru 2
+# Hafta 1
+## Soru 2
 
 **2. Bir üçgen dik mi, ikizkenar mı hesaplayın.**
 
